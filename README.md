@@ -16,7 +16,7 @@ I am working as a Cyber Security Consultant / Penetration Tester at Innovera (a 
 
 ### Penetration Testing Knowlage
 
-- :briefcase: &nbsp;	API Penetration Testing
+- :open_file_folder: &nbsp;	API Penetration Testing
 - :desktop_computer: &nbsp;	Clint PC Audit
 - :weight_lifting_man:		 &nbsp; DDoS & Loan Testing
 - :iphone: &nbsp;	Mobile Application Penetration Testing (Android & iOS)
@@ -26,8 +26,8 @@ I am working as a Cyber Security Consultant / Penetration Tester at Innovera (a 
 
 ### Find Me On	
 
-- [Linkedin](https://www.linkedin.com/in/sametemiroglu/)
-- [Website](https://sametemiroglu.com/)
+- :briefcase: &nbsp; [Linkedin](https://www.linkedin.com/in/sametemiroglu/)
+- :pencil: &nbsp; [Website](https://sametemiroglu.com/)
 
 <!--
 **j0nliv/j0nliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
