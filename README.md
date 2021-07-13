@@ -24,7 +24,7 @@ I am working as a Cyber Security Consultant / Penetration Tester at Innovera (a 
 - :mag_right:	&nbsp; Source Code Analysis & Review
 - :spider_web: &nbsp; Web Application Penetration Testing
 
-### Find Me On 	
+### Find Me On	
 
 - [Linkedin](https://www.linkedin.com/in/sametemiroglu/)
 - [Website](https://sametemiroglu.com/)
