@@ -19,7 +19,7 @@ I am working as a Cyber Security Consultant / Penetration Tester at Innovera (a 
 - :briefcase: &nbsp;	API Penetration Testing
 - :desktop_computer: &nbsp;	Clint PC Audit
 - :weight_lifting_man:		 &nbsp; DDoS & Loan Testing
-- :iphone: &nbsp;	Mobile Application Penetration Testing
+- :iphone: &nbsp;	Mobile Application Penetration Testing (Android & iOS)
 - :globe_with_meridians: &nbsp;	Network (Internal & External) Penetration Testing
 - :mag_right:	&nbsp; Source Code Analysis & Review
 - :spider_web: &nbsp; Web Application Penetration Testing
