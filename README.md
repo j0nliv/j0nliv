@@ -12,7 +12,7 @@ I am working as a Cyber Security Consultant / Penetration Tester at Innovera (a 
 - :star_struck: &nbsp; Development of Python & Python Framework (Django,Flask,Selenium etc.)
 - :fishing_pole_and_fish: &nbsp;	Development of Social Engineering Scripts
 - :eye:	&nbsp; OSCP & OSWP Certificates
-- :umbrella: &nbsp;	Secure Software Development
+- :umbrella: &nbsp;&nbsp;	Secure Software Development
 
 ### Penetration Testing Knowlage
 
@@ -20,7 +20,7 @@ I am working as a Cyber Security Consultant / Penetration Tester at Innovera (a 
 - :open_file_folder: &nbsp; API Penetration Testing
 - :keyboard: &nbsp; Client PC Audit
 - :weight_lifting_man: &nbsp; DDoS & Loan Testing
-- :iphone: &nbsp; Mobile Application Penetration Testing (Android & iOS)
+- :iphone: &nbsp;&nbsp; Mobile Application Penetration Testing (Android & iOS)
 - :globe_with_meridians: &nbsp; Network (Internal & External) Penetration Testing
 - :mag_right: &nbsp; Source Code Analysis & Review
 - :spider_web: &nbsp; Web Application Penetration Testing
