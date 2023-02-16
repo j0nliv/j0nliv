@@ -3,7 +3,7 @@
 I am working as a Cyber Security Consultant / Penetration Tester at SabancıDx. Every field of Computer Science interests me. I did undergraduate education in Computer Science and master's education in Cyber Security.
 
 <p align="center">
-  <img width="100" height="50" src="https://sametemiroglu.com/images/j0nliv-logo.png">
+  <img width="100" height="50" src="https://sametemiroglu.net/images/j0nliv-logo.png">
 </p>
 
 ### Summary
@@ -28,7 +28,7 @@ I am working as a Cyber Security Consultant / Penetration Tester at SabancıDx. 
 ### Find Me On	
 
 - :briefcase: &nbsp; [Linkedin](https://www.linkedin.com/in/sametemiroglu/)
-- :pencil: &nbsp; [Website](https://sametemiroglu.com/)
+- :pencil: &nbsp; [Website](https://sametemiroglu.net/)
 
 <!--
 **j0nliv/j0nliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
