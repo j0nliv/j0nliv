@@ -1,6 +1,6 @@
 ### Hi there, I'm Samet 👋
 
-I am working as a Cyber Security Consultant / Penetration Tester at SabancıDx. Every field of Computer Science interests me. I did undergraduate education in Computer Science and master's education in Cyber Security.
+I am working as a Application Security Engineer at Halkbank. Every field of Computer Science interests me. I did undergraduate education in Computer Science and master's education in Cyber Security.
 
 <p align="center">
   <img width="100" height="50" src="https://sametemiroglu.net/images/j0nliv-logo.png">
